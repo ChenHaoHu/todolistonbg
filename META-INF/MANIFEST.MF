@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: com.hcy.todolistonbg
+Main-Class: com.hcy.todolistonbg.Main
+
